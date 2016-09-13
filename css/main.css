@@ -1,0 +1,49 @@
+header{
+	background-color: #73C90D;
+	height: 100px;
+}
+
+.box-cabecera h4{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 48px;
+}
+
+.box-cabecera nav{
+	text-align: right;
+	position: relative;
+	margin-top: -57px;
+}
+
+.box-cabecera a{
+	text-decoration: none;
+	padding-left: 40px;
+	color:#000;
+}
+
+.box-cabecera a:hover{
+	text-decoration: none;
+	padding-left: 40px;
+	color:#fff;
+}
+
+/*cuerpo*/
+
+.box-cuerpo .col-3 img{
+	width: 100%;
+	padding-top: 20px;
+}
+
+.box-cuerpo .col-4 img{
+	width: 100%;
+	padding-top: 20px;
+}
+
+.box-cuerpo .col-5 img{
+	width: 100%;
+	padding-top: 20px;
+}
+.box-cuerpo p{
+	margin-top: 20px;
+	text-align: justify;
+}
